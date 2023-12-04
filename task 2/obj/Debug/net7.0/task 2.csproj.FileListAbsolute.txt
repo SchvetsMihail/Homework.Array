@@ -1,0 +1,14 @@
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\bin\Debug\net7.0\task 2.exe
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\bin\Debug\net7.0\task 2.deps.json
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\bin\Debug\net7.0\task 2.runtimeconfig.json
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\bin\Debug\net7.0\task 2.dll
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\bin\Debug\net7.0\task 2.pdb
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\obj\Debug\net7.0\task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\obj\Debug\net7.0\task 2.AssemblyInfoInputs.cache
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\obj\Debug\net7.0\task 2.AssemblyInfo.cs
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\obj\Debug\net7.0\task 2.csproj.CoreCompileInputs.cache
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\obj\Debug\net7.0\task 2.dll
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\obj\Debug\net7.0\refint\task 2.dll
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\obj\Debug\net7.0\task 2.pdb
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\obj\Debug\net7.0\task 2.genruntimeconfig.cache
+C:\Users\shvec\Desktop\GeekBrains\C#\Seminar3\Homework.Array\task 2\obj\Debug\net7.0\ref\task 2.dll
